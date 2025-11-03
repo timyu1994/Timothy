@@ -6,8 +6,8 @@
 
 <!-- Add your details -->
 ✉️: timyu@hotmail.com
-&nbsp;&nbsp; 📲 +65-92301170
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/timothy-yu-yudian/) 
+&nbsp;&nbsp; 📲: +65-92301170
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💼: [LinkedIn](https://www.linkedin.com/in/timothy-yu-yudian/) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -56,7 +56,7 @@ Distinctions in H2 Biology, H2 Chemistry, H2 Mathematics, H1 Project Work
 <!-- Add your details -->
 
 #### ML project
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](https://github.com/timyu1994/exam-score-prediction)
 
 
 <!-- PROJECTS Section Ends -->
