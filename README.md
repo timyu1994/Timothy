@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Timothy Yu__, Data engineer with a background in auditing and strong skills in ETL automation and data integration using SQL Server and SSIS. Passionate about leveraging technology to optimize systems, improve processes, and support effective decision-making. Looking to contribute technical skills and analytical experience to a dynamic team focused on operational excellence and continuous improvement.
+I am __Timothy Yu__, a data engineer with strong skills in ETL automation and data integration using SQL Server and SSIS. Passionate about leveraging technology to optimize systems, improve processes, and support effective decision-making. Seeking to leverage my background in data integrity and commitment to continuous learning to engineer robust solutions and drive operational excellence.
 
 <!-- ABOUT Section Ends -->
 
