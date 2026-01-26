@@ -1,7 +1,6 @@
 # Timothy Yu Yudian
 
 <!-- CONTACT Section Starts -->
-
 ### CONTACT
 
 <!-- Add your details -->
@@ -17,7 +16,6 @@
 <!-- Add your details -->
 
 I am __Timothy Yu__, a data engineer with strong skills in ETL automation and data integration using SQL Server and SSIS. Passionate about leveraging technology to optimize systems, improve processes, and support effective decision-making. Seeking to leverage my background in data integrity and commitment to continuous learning to engineer robust solutions and drive operational excellence.
-
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
@@ -33,7 +31,6 @@ Apr 24 - Present
 - Collaborated with stakeholders to understand data and reporting requirements, ensuring alignment with reporting needs.
 - Actively contributed to process improvement by optimizing data pipelines and integrating user feedback into system enhancements.
 - Managed the migration and setup of on-premises data warehousing systems, to support uninterrupted reporting and analytics.
-
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
@@ -48,22 +45,22 @@ Graduated with 2nd Class (Upper) Honours
 GCE A Level<br>
 Jan 07 - Dec 12<br>
 Distinctions in H2 Biology, H2 Chemistry, H2 Mathematics, H1 Project Work 
-
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-
 #### ML project
 [Click here to view codebase](https://github.com/timyu1994/exam-score-prediction)
-
-
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-## FEATURED
+### FEATURED
 <!-- Add your details -->
-##### Certifications
-Certified Data Analyst by Databricks
-
+#### Certifications
+[SnowPro Associate: Platform Certification](https://achieve.snowflake.com/8337fee2-2dbe-40bd-91a7-73bec58a1063#acc.e6aFnw4u)<br>
+Earned 2025 | Expires 2027<br>
+[Databricks Certified Data Analyst Associate](https://credentials.databricks.com/69473b42-ebd1-487d-b618-afef112bae92#acc.ukPbgDOL)<br>
+Earned 2024 | Expires 2026<br>
+[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/85664849-c9f8-4a8f-8b60-a8f23bc2b25c#acc.CjQz29Ap)<br>
+Earned 2025 | Expires 2027<br>
