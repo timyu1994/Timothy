@@ -64,3 +64,5 @@ Earned 2025 | Expires 2027<br>
 Earned 2024 | Expires 2026<br>
 [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/85664849-c9f8-4a8f-8b60-a8f23bc2b25c#acc.CjQz29Ap)<br>
 Earned 2025 | Expires 2027<br>
+[AWS Certified Data Engineer Associate](https://www.credly.com/badges/65518138-87a9-474c-a4b4-4e59db4b8c16/public_url)<br>
+Earned 2026 | Expires 2029<br>
