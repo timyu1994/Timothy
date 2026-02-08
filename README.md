@@ -28,26 +28,28 @@ Looking to grow within a team that values learning, operational excellence, and 
 Data Engineer<br>
 Apr 24 - Present
 
-- Built and maintained end-to-end data integration workflows using SFTP, batch scripting, SSIS, and SQL Server in an on-premise data environment.
-- Designed, developed, and scheduled SSIS packages to automate and streamline ETL operations supporting business reporting.
-- Implemented monitoring and alerting mechanisms for proactive issue resolution and continuous system reliability.
-- Collaborated with stakeholders to understand data and reporting requirements, ensuring alignment with reporting needs.
-- Actively contributed to process improvement by optimizing data pipelines and integrating user feedback into system enhancements.
-- Managed the migration and setup of on-premises data warehousing systems, to support uninterrupted reporting and analytics.
+- **Pipeline Modernization:** Re-architected complex ETL workflows into efficient ELT patterns by leveraging SQL Push-Down
+Optimization. This reduced reliance on SSIS server memory, eliminated crashes and improved pipeline execution time.
+- **Reliability Engineering:** Designed and scheduled SSIS packages and batch scripts to automate and streamline data operations,
+ensuring predictable and reliable data delivery for business reporting.
+- **Process Automation:** Implemented monitoring and alerting mechanisms for proactive issue identification, reducing mean time to
+resolution and ensuring system reliability.
+- **Stakeholder Alignment:** Collaborated with stakeholders to translate business requirements into technical data models, ensuring
+alignment with reporting needs.
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
 ##### Nanyang Technological University
-Bachelor of Accountancy<br>
+Bachelor of Accountancy - 2nd Class (Upper) Honours<br>
 Aug 15 - Jun 18<br>
-Graduated with 2nd Class (Upper) Honours
+A+ in Statistical and Quantitative Methods
 
 ##### Hwa Chong Institution
 GCE A Level<br>
 Jan 07 - Dec 12<br>
-Distinctions in H2 Biology, H2 Chemistry, H2 Mathematics, H1 Project Work 
+Distinctions in H2 Biology, H2 Chemistry, H2 Mathematics, H1 Project Work
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
